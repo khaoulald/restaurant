@@ -1,0 +1,9 @@
+.banner-image{
+    background-image: url('img.jpg');
+    background-size: cover;
+}
+
+img{
+    width: 200px;
+    
+}
